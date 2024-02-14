@@ -7,7 +7,7 @@ class Config(object):
     API_ID = 24930902 # integer value, dont use ""
     API_HASH = "13ab12fe1f3ecce86ac52b4c6c662f81"
     TOKEN = "6548824436:AAF5QtjsNqiv9OwF6EHotluNmp8XfkMa7Us"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 2145093972 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 2006156742 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
     SUPPORT_CHAT = "Support_GUI"  # Your own group for support, do not add the @
     START_IMG = "https://id.pinterest.com/pin/520306563204995674/"
