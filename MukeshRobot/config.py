@@ -12,7 +12,7 @@ class Config(object):
     SUPPORT_CHAT = "Support_GUI"  # Your own group for support, do not add the @
     START_IMG = "https://id.pinterest.com/pin/520306563204995674/"
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= "mongodb+srv://guimanage14:<BnYCaTEcTnkWxEVQ>@cluster0.ylagj6l.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI= "mongodb+srv://guimanage14:BnYCaTEcTnkWxEVQ@cluster0.ylagj6l.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
     DATABASE_URL = "postgres://wpmbbjfm:QDiX48aMyWOz0GIUtYzq96IMRiSv3YyC@rain.db.elephantsql.com/wpmbbjfm"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
